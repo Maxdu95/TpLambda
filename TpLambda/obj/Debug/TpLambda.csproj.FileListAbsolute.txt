@@ -1,0 +1,6 @@
+c:\users\mneuder\documents\visual studio 2012\Projects\TpLambda\TpLambda\bin\Debug\TpLambda.exe.config
+c:\users\mneuder\documents\visual studio 2012\Projects\TpLambda\TpLambda\bin\Debug\TpLambda.exe
+c:\users\mneuder\documents\visual studio 2012\Projects\TpLambda\TpLambda\bin\Debug\TpLambda.pdb
+c:\users\mneuder\documents\visual studio 2012\Projects\TpLambda\TpLambda\obj\Debug\TpLambda.csprojResolveAssemblyReference.cache
+c:\users\mneuder\documents\visual studio 2012\Projects\TpLambda\TpLambda\obj\Debug\TpLambda.exe
+c:\users\mneuder\documents\visual studio 2012\Projects\TpLambda\TpLambda\obj\Debug\TpLambda.pdb

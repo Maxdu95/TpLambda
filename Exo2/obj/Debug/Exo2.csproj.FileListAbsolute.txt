@@ -1,0 +1,5 @@
+c:\Users\mneuder\documents\visual studio 2012\Projects\TpLambda\Exo2\bin\Debug\Exo2.exe.config
+c:\Users\mneuder\documents\visual studio 2012\Projects\TpLambda\Exo2\bin\Debug\Exo2.exe
+c:\Users\mneuder\documents\visual studio 2012\Projects\TpLambda\Exo2\bin\Debug\Exo2.pdb
+c:\Users\mneuder\documents\visual studio 2012\Projects\TpLambda\Exo2\obj\Debug\Exo2.exe
+c:\Users\mneuder\documents\visual studio 2012\Projects\TpLambda\Exo2\obj\Debug\Exo2.pdb
